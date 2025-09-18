@@ -1,0 +1,2 @@
+SELECT *
+FROM GSPT_Test;

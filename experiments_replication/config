@@ -1,0 +1,4 @@
+Host gitlab.XXX.com
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/g5kuserkey
+  StrictHostKeyChecking no

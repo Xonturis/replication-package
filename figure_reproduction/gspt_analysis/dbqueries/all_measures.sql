@@ -1,0 +1,1 @@
+SELECT * FROM GSPT_Measure;
