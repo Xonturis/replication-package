@@ -1,37 +1,50 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: >-
+  Local Computing vs. Cloud Computing: An Empirical Study of
+  Energy Consumption -- Replication Package And Dataset
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
-- family-names: "Siffre"
-  given-names: "Lylian"
-  orcid: "https://orcid.org/0009-0004-5743-9337"
-- family-names: "Ledoux"
-  given-names: "Thomas"
-  orcid: "https://orcid.org/0000-0002-6136-6757"
-- family-names: "Pawlak"
-  given-names: "Renaud"
-  orcid: "https://orcid.org/0000-0002-0285-6561"
-- family-names: "Guery"
-  given-names: "John"
-  orcid: "https://orcid.org/0009-0003-1156-8443"
-title: "Local Computing vs. Cloud Computing: An Empirical Study of Energy Consumption -- Replication Package And Dataset"
-date-released: 2025-10-21
-url: "https://github.com/Xonturis/seek-tune-replication-package"
+  - family-names: Siffre
+    given-names: Lylian
+    orcid: 'https://orcid.org/0009-0004-5743-9337'
+  - family-names: Ledoux
+    given-names: Thomas
+    orcid: 'https://orcid.org/0000-0002-6136-6757'
+  - family-names: Pawlak
+    given-names: Renaud
+    orcid: 'https://orcid.org/0000-0002-0285-6561'
+  - family-names: Guery
+    given-names: John
+    orcid: 'https://orcid.org/0009-0003-1156-8443'
+url: 'https://github.com/Xonturis/seek-tune-replication-package'
+date-released: '2025-10-21'
+doi: 10.5281/zenodo.17406174
 preferred-citation:
   type: article
   authors:
-  - family-names: "Siffre"
-    given-names: "Lylian"
-    orcid: "https://orcid.org/0009-0004-5743-9337"
-  - family-names: "Ledoux"
-    given-names: "Thomas"
-    orcid: "https://orcid.org/0000-0002-6136-6757"
-  - family-names: "Pawlak"
-    given-names: "Renaud"
-    orcid: "https://orcid.org/0000-0002-0285-6561"
-  - family-names: "Guery"
-    given-names: "John"
-    orcid: "https://orcid.org/0009-0003-1156-8443"
-  journal: "IEEE/ACM International Conference on Utility and Cloud Computing (UCC2025)"
+    - family-names: Siffre
+      given-names: Lylian
+      orcid: 'https://orcid.org/0009-0004-5743-9337'
+    - family-names: Ledoux
+      given-names: Thomas
+      orcid: 'https://orcid.org/0000-0002-6136-6757'
+    - family-names: Pawlak
+      given-names: Renaud
+      orcid: 'https://orcid.org/0000-0002-0285-6561'
+    - family-names: Guery
+      given-names: John
+      orcid: 'https://orcid.org/0009-0003-1156-8443'
+  journal: IEEE/ACM International Conference on Utility and Cloud Computing (UCC2025)
   month: 12
-  title: "Local Computing vs. Cloud Computing: An Empirical Study of Energy Consumption"
+  title: >-
+    Local Computing vs. Cloud Computing: An Empirical Study of Energy
+    Consumption
   year: 2025
+  identifiers:
+    - type: other
+      value: 'https://hal.science/hal-05324506'
+      description: "The HAL preprint of the paper."
